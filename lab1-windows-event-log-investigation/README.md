@@ -32,7 +32,7 @@ This attack chain reflects a common brute-force → compromise → escalation pa
 
 <details>
 <summary>Environment Setup Notes: Audit Policy Troubleshooting & Configuration Steps</summary>
-
+<br>
 During the initial execution of this lab, several expected security events were not being generated—specifically failed logon attempts (4625) and process creation events (4688). This required deeper investigation into Windows audit policies and authentication behavior. The following details outline the troubleshooting and configuration steps taken to ensure accurate event logging:
 
 1. Problem Identified: Failed Logon Attempts (4625) Not Appearing
