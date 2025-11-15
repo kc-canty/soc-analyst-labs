@@ -1,4 +1,4 @@
-# soc-analyst-labs
+# SOC Analyst Labs
 A collection of hands-on SOC Analyst labs demonstrating skills in event log analysis, network traffic analysis, IAM, Linux, Python, Active Directory, and security operations workflows.
 
 # Lab 1 — Windows Event Log Investigation  
