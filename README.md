@@ -77,7 +77,7 @@ This portfolio is my commitment to breaking into cybersecurity through consisten
 ##  Social Links
 
 - **GitHub:** [YOUR LINK]  
-- **LinkedIn:** linedin.com/in/keith-canty 
+- **LinkedIn:** www.linkedin.com/in/keith-canty 
 - **Email:** keith.curtis.canty@gmail.com  
 
 ---
