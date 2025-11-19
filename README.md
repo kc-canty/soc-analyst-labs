@@ -76,7 +76,7 @@ This portfolio is my commitment to breaking into cybersecurity through consisten
 
 ##  Social Links
 
-- **GitHub:** [YOUR LINK]  
+- **GitHub:** https://github.com/kc-canty/soc-analyst-labs  
 - **LinkedIn:** www.linkedin.com/in/keith-canty 
 - **Email:** keith.curtis.canty@gmail.com  
 
