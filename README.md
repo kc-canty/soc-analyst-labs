@@ -13,9 +13,9 @@ This portfolio represents my transition into cybersecurity, combining labs, self
 soc-analyst-labs/
 │── lab1-windows-event-log-investigation/
 │── lab2-vulnerability-management/
-│── lab3-network-traffic-analysis/        (Wireshark – in progress)
-│── lab4-iam-mini-project/                (coming soon)
-│── lab5-linux-security-basics/           (coming soon)
+│── lab3-linux-security-basics/         (in progress)
+│── lab4-iam-mini-project/               (coming soon)
+│── lab5-network-traffic-analysis/        (Wireshark – icoming soon)
 │── lab6-python-security-automation/      (coming soon)
 │── lab7-active-directory-basics/         (coming soon)
 │── lab8-siem-investigation/              (coming soon)
