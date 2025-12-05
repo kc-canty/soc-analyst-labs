@@ -18,20 +18,20 @@ This lab is designed to be the first step in my Linux projects portfolio, buildi
 
 ## Scenario
 
-You are a junior technician who has just SSH’d into a Linux server.  
-Your lead asks you to:
+I'm a junior technician who has just SSH’d into a Linux server.  
+My lead asks me to:
 
-1. Confirm where you are in the filesystem.
-2. Explore your home directory and organize a small “lab workspace”.
+1. Confirm where I am in the filesystem.
+2. Explore my home directory and organize a small “lab workspace”.
 3. View a system log file and confirm it’s actively recording events.
 4. Search the log file for failed login attempts.
-5. Capture your commands and findings for future reference.
+5. Capture commands and findings for future reference.
 
 ---
 
 ## Environment
 
-- **OS**: Any Linux distribution (Ubuntu/Debian recommended)
+- **OS**: Any Linux distribution.
 - **Access**: Local VM or remote server with terminal/SSH access
 - **Account**: Non-root user with read access to `/var/log` (typical on most systems)
 
@@ -51,7 +51,7 @@ By the end of this lab I will be able to:
 
 ## Lab Tasks
 
-### Task 1 – Confirm Your Location and List Files
+### Task 1 – Confirm Location and List Files
 
 1. Open a terminal or SSH into Linux machine.
 2. Run the following command to show current location:
