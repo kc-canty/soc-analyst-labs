@@ -15,7 +15,7 @@ soc-analyst-labs/
 │── lab2-vulnerability-management/
 │── lab3-linux-security-basics/         (in progress)
 │── lab4-iam-mini-project/               (coming soon)
-│── lab5-network-traffic-analysis/        (Wireshark – icoming soon)
+│── lab5-network-traffic-analysis/        (Wireshark – coming soon)
 │── lab6-python-security-automation/      (coming soon)
 │── lab7-active-directory-basics/         (coming soon)
 │── lab8-siem-investigation/              (coming soon)
